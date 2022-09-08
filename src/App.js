@@ -8,6 +8,7 @@ import LoginForm from './LoginForm';
 function App() {
   return (
     <div >
+      <p>greetings..</p>
       <p>learn react Web App</p>
      <Greetings />
      <Async />
